@@ -8,7 +8,7 @@ You can press Space key at any time to restart the game, and press R key to choo
 
 Try to beat my simple AI first!!HAHA!
 
-![1](https://github.com/bluemapleman/RLFiveInARow/tree/master/imgs/screenshot1.png)
+![1](screenshot1.png)
 
 ![2](screenshot2.png)
 
