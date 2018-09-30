@@ -10,6 +10,6 @@ Try to beat my simple AI first!!HAHA!
 
 ![1](screenshot1.png)
 
-![2](screenshot2.png)
+![2](lostScreenshot.png)
 
 Have Fun!
